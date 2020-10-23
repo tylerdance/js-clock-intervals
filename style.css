@@ -1,9 +1,13 @@
-#clock img {
-
+#clock {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 #hour {
-
+    /* display: flex;
+    justify-content: center; */
 }
 
 #minute {
